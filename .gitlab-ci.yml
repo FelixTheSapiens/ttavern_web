@@ -1,0 +1,16 @@
+image: bentolor/docker-dind-awscli
+
+services:
+- docker:dind
+
+stages:
+  - deploy
+
+deploy_production:
+  stage: deploy 
+  script:
+    - echo "Updating web in production"
+    - aws s3 cp . s3://ttavern-web/ --recursive --exclude ".gitlab-ci.yml" --exclude ".git"
+  only:
+    - main
+  when: manual

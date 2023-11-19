@@ -1,0 +1,34 @@
+{
+    "genre.drama": {
+        "ru": "Драма",
+        "en": "Drama"
+    },
+    "genre.horror": {
+        "ru": "Хоррор",
+        "en": "Horror"
+    },
+    "genre.thriller": {
+        "ru": "Триллер",
+        "en": "Thriller"
+    },
+    "genre.detective": {
+        "ru": "Детектив",
+        "en": "Detective"
+    },
+    "genre.comedy": {
+        "ru": "Комедия",
+        "en": "Comedy"
+    },
+    "genre.adventure": {
+        "ru": "Приключение",
+        "en": "Adventure"
+    },
+    "genre.noir": {
+        "ru": "Нуар",
+        "en": "Noir"
+    },
+    "genre.politics": {
+        "ru": "Политика",
+        "en": "Politics"
+    }
+}

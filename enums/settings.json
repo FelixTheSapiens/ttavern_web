@@ -1,0 +1,26 @@
+{
+    "setting.fantasy": {
+        "ru": "Фентези",
+        "en": "Fantasy"
+    },
+    "setting.mystery": {
+        "ru": "Мистика",
+        "en": "Mystery"
+    },
+    "setting.scifi": {
+        "ru": "Sci-fi",
+        "en": "Sci-fi"
+    },
+    "setting.cyberpunk": {
+        "ru": "Киберпанк",
+        "en": "Cyberpunk"
+    },
+    "setting.historical": {
+        "ru": "Исторический",
+        "en": "Historical"
+    },
+    "setting.realism": {
+        "ru": "Реализм",
+        "en": "Realism"
+    }
+}

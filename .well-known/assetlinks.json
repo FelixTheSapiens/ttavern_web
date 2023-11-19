@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.ttavern.application",
+            "sha256_cert_fingerprints": [
+                "4C:67:77:6C:DC:D6:68:CF:FC:B3:72:B5:F2:AE:F8:58:21:43:1F:04:3A:A4:8B:02:23:A4:8B:82:3C:77:72:FF"
+            ]
+        }
+    }
+]
